@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\reactiveTarget.cs">
+    <Files>
+      <File FileName="Assets\mouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\RayShooter.cs" Line="1" Column="1" />
+      <File FileName="Assets\dart.cs" Line="1" Column="1" />
+      <File FileName="Assets\reactiveTarget.cs" Line="11" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
